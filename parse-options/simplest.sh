@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# this script doesn't work with arguments passed in for options
+
 while test $# -gt 0
 do
   case $1 in
